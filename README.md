@@ -56,7 +56,7 @@ Final Score = (AUCROC + AUPRC + Accuracy + F-measure + Utility)/5 <br>
 11. Please visit https://github.com/GEHC-SepsisChallengeSIH/ForParticipants for more information.<br>
 -------------------Best Wishes-------------------
 
-Sources: <br>
+Sources:<br>
 https://physionet.org/content/challenge-2019/1.0.0/ <br>
 https://github.com/physionetchallenges/evaluation-2019 <br>
 https://archive.physionet.org/users/shared/challenge-2019/ <br>
