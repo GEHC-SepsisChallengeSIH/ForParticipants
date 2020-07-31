@@ -34,7 +34,7 @@ NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|
     3. User GEHC-SepsisChallenge owns repository https://github.com/GEHC-SepsisChallengeSIH/ForParticipants where test dataset will be provided at the time of evaluation.<br>
     4. Teams must then upload their prediction folder and model folder on their respective repository <br>
   
-7. Algorithm Evaluation will be carried out using the script <b>evaluate_sepsis_score.py.<br>
+7. Algorithm Evaluation will be carried out using the script <b>evaluate_sepsis_score.py.</b><br>
   (Script available on https://github.com/GEHC-SepsisChallengeSIH/ForParticipants)
 
 
@@ -51,9 +51,9 @@ NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|
 </i><br><br>
 
 10. The evaluation criteria will be mean value of above mentioned 5 metrices: <br>
-Final Score = (AUCROC + AUPRC + Accuracy + F-measure + Utility)/5
+Final Score = (AUCROC + AUPRC + Accuracy + F-measure + Utility)/5 <br>
  
-11. Please visit https://github.com/GEHC-SepsisChallengeSIH/ForParticipants for more information.
+11. Please visit https://github.com/GEHC-SepsisChallengeSIH/ForParticipants for more information.<br>
 -------------------Best Wishes-------------------
 
 Sources: <br>
