@@ -30,7 +30,7 @@ NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|
 <b>[Team Name]_Model:</b> This should have your model code. <br>
     <b><i>How to share your model and code</i></b><br>
     1. Each team must create it's own private repository on github.com <br>
-    2. Teams must add user GEHC-SepsisChallenge as collaborator to their respective repository <br>
+    2. Teams must add user GEHC-SepsisChallenge (https://github.com/GEHC-SepsisChallengeSIH) as collaborator to their respective repository <br>
     3. User GEHC-SepsisChallenge owns repository https://github.com/GEHC-SepsisChallengeSIH/ForParticipants where test dataset will be provided at the time of evaluation.<br>
     4. Teams must then upload their prediction folder and model folder on their respective repository <br>
   
@@ -53,7 +53,7 @@ NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|
 10. The evaluation criteria will be mean value of above mentioned 5 metrices: <br>
 Final Score = (AUCROC + AUPRC + Accuracy + F-measure + Utility)/5
  
-11. Please visit 
+11. Please visit https://github.com/GEHC-SepsisChallengeSIH/ForParticipants for more information.
 -------------------Best Wishes-------------------
 
 Sources: <br>
