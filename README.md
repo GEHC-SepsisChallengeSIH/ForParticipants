@@ -27,12 +27,12 @@ NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|
 
 6. At the time of submission you must share two folders:<br>
 <b>[Team Name]_Predictions:</b> This folder should be in same format as folder <b>PredLabels_Example</b>. It must have 1000 .psv files starting from P0001.psv to P1000.psv<br>
-<b>[Team Name]_Model:</b> This should have your model code.
-  <b><i>How to share your model and code</i></b><br>
-  1. Each team must create it's own private repository on github.com <br>
-  2. Teams must add user GEHC-SepsisChallenge as collaborator to their respective repository <br>
-  3. User GEHC-SepsisChallenge owns repository https://github.com/GEHC-SepsisChallengeSIH/ForParticipants where test dataset will be provided at the time of evaluation.<br> 
-  3. Teams must then upload their prediction folder and model folder on their respective repository <br>
+<b>[Team Name]_Model:</b> This should have your model code. <br>
+    <b><i>How to share your model and code</i></b><br>
+    1. Each team must create it's own private repository on github.com <br>
+    2. Teams must add user GEHC-SepsisChallenge as collaborator to their respective repository <br>
+    3. User GEHC-SepsisChallenge owns repository https://github.com/GEHC-SepsisChallengeSIH/ForParticipants where test dataset will be provided at the time of evaluation.<br>
+    4. Teams must then upload their prediction folder and model folder on their respective repository <br>
   
 7. Algorithm Evaluation will be carried out using the script <b>evaluate_sepsis_score.py.<br>
   (Script available on https://github.com/GEHC-SepsisChallengeSIH/ForParticipants)
