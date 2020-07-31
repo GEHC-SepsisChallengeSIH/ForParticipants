@@ -1,7 +1,7 @@
 # ForParticipants
 ### Rules and Guidelines for Evaluation of Sepsis Prediction Algorithm: 
 
-1. Participants will be provided with a <b>TestSet</b> of 1000 cases that will have same format as the training data (i.e. .psv files) except that SepsisLabel column will not be present. A snapshot of data format is shown here in italics:
+1. Participants will be provided with a <b>TestSet</b> of 1000 cases that will have same format as the training data (i.e. .psv files) except that SepsisLabel column will not be present. Dataset will be shared on https://github.com/GEHC-SepsisChallengeSIH/ForParticipants. A snapshot of data format is shown here in italics:
 <i>
 HR|O2Sat|Temp|SBP|MAP|DBP|Resp|EtCO2|BaseExcess|HCO3|FiO2|pH|PaCO2|SaO2|AST|BUN|Alkalinephos|Calcium|Chloride|Creatinine|Bilirubin_direct|Glucose|Lactate|Magnesium|Phosphate|Potassium|Bilirubin_total|TroponinI|Hct|Hgb|PTT|WBC|Fibrinogen|Platelets|Age|Gender|Unit1|Unit2|HospAdmTime|ICULOS
 NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|67|0|0|1|-33.04|1
@@ -22,12 +22,21 @@ NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|
 </i>
 
 5. A sample of expected prediction format is shared in folder <b>PredLabels_Example</b>. It gives a sample prediction for a sample test set of 1000 cases. 
+(PredLabels_Example folder available on https://github.com/GEHC-SepsisChallengeSIH/ForParticipants)
+
 
 6. At the time of submission you must share two folders:<br>
 <b>[Team Name]_Predictions:</b> This folder should be in same format as folder <b>PredLabels_Example</b>. It must have 1000 .psv files starting from P0001.psv to P1000.psv<br>
 <b>[Team Name]_Model:</b> This should have your model code.
+  <b><i>How to share your model and code</i></b><br>
+  1. Each team must create it's own private repository on github.com <br>
+  2. Teams must add user GEHC-SepsisChallenge as collaborator to their respective repository <br>
+  3. User GEHC-SepsisChallenge owns repository https://github.com/GEHC-SepsisChallengeSIH/ForParticipants where test dataset will be provided at the time of evaluation.<br> 
+  3. Teams must then upload their prediction folder and model folder on their respective repository <br>
+  
+7. Algorithm Evaluation will be carried out using the script <b>evaluate_sepsis_score.py.<br>
+  (Script available on https://github.com/GEHC-SepsisChallengeSIH/ForParticipants)
 
-7. Algorithm Evaluation will be carried out using the script <b>evaluate_sepsis_score.py</b>
 
 8. This script accepts two folders as follows: <br>
   python evaluate_sepsis_score.py [True Label Directory] [Predicted Directory]<br>
@@ -44,7 +53,7 @@ NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|
 10. The evaluation criteria will be mean value of above mentioned 5 metrices: <br>
 Final Score = (AUCROC + AUPRC + Accuracy + F-measure + Utility)/5
  
-
+11. Please visit 
 -------------------Best Wishes-------------------
 
 Sources: <br>
