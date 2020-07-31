@@ -33,7 +33,7 @@ NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|
     1. Each team must create it's own private repository on github.com <br>
     2. Teams must add user GEHC-SepsisChallenge (https://github.com/GEHC-SepsisChallengeSIH) as collaborator to their respective repository <br>
     3. User GEHC-SepsisChallenge owns repository https://github.com/GEHC-SepsisChallengeSIH/ForParticipants where test dataset will be provided at the time of evaluation.<br>
-    4. Teams must then upload their prediction folder and model folder on their respective repository <br>
+    4. Teams must then upload their prediction folder and model folder on their respective private repositories <br>
   
 7. Algorithm Evaluation will be carried out using the script <b>evaluate_sepsis_score.py.</b><br>
   (Script available on https://github.com/GEHC-SepsisChallengeSIH/ForParticipants)
