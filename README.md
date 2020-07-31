@@ -1,7 +1,8 @@
 # ForParticipants
 ### Rules and Guidelines for Evaluation of Sepsis Prediction Algorithm: 
 
-1. Participants will be provided with a <b>TestSet</b> of 1000 cases that will have same format as the training data (i.e. .psv files) except that SepsisLabel column will not be present. Dataset will be shared on https://github.com/GEHC-SepsisChallengeSIH/ForParticipants. A snapshot of data format is shown here in italics:
+1. Participants will be provided with a <b>TestSet</b> of 1000 cases that will have same format as the training data (i.e. .psv files) except that SepsisLabel column will not be present. Dataset will be shared on https://github.com/GEHC-SepsisChallengeSIH/ForParticipants. <br>
+A snapshot of data format is shown here in italics:<br>
 <i>
 HR|O2Sat|Temp|SBP|MAP|DBP|Resp|EtCO2|BaseExcess|HCO3|FiO2|pH|PaCO2|SaO2|AST|BUN|Alkalinephos|Calcium|Chloride|Creatinine|Bilirubin_direct|Glucose|Lactate|Magnesium|Phosphate|Potassium|Bilirubin_total|TroponinI|Hct|Hgb|PTT|WBC|Fibrinogen|Platelets|Age|Gender|Unit1|Unit2|HospAdmTime|ICULOS
 NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|67|0|0|1|-33.04|1
