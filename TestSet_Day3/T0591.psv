@@ -1,0 +1,12 @@
+HR|O2Sat|Temp|SBP|MAP|DBP|Resp|EtCO2|BaseExcess|HCO3|FiO2|pH|PaCO2|SaO2|AST|BUN|Alkalinephos|Calcium|Chloride|Creatinine|Bilirubin_direct|Glucose|Lactate|Magnesium|Phosphate|Potassium|Bilirubin_total|TroponinI|Hct|Hgb|PTT|WBC|Fibrinogen|Platelets|Age|Gender|Unit1|Unit2|HospAdmTime|ICULOS
+NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|46|0|NaN|NaN|0|1
+94.0|94.5|NaN|154.5|99.0|76.0|15.0|NaN|NaN|NaN|NaN|NaN|NaN|NaN|26.0|22.0|131.0|8.4|NaN|1.49|NaN|129.0|NaN|1.7|4.5|3.4|1.1|NaN|33.0|9.0|29.3|7.7|NaN|132.0|46|0|NaN|NaN|0|2
+NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|9.0|NaN|0.5|7.37|64.0|97.0|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|1.12|NaN|NaN|3.6|NaN|NaN|28.0|NaN|NaN|NaN|NaN|NaN|46|0|NaN|NaN|0|3
+NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|46|0|NaN|NaN|0|4
+78.0|97.0|35.3|116.0|74.0|56.0|16.0|33.0|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|46|0|NaN|NaN|0|5
+80.0|94.0|NaN|154.0|106.0|84.0|15.0|36.0|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|46|0|NaN|NaN|0|6
+84.0|95.0|NaN|124.0|74.0|56.0|15.0|41.0|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|46|0|NaN|NaN|0|7
+80.0|93.0|NaN|124.0|70.0|52.0|14.0|40.0|NaN|NaN|0.6|7.36|65.0|89.1|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|46|0|NaN|NaN|0|8
+74.0|100.0|36.1|120.0|70.0|54.0|15.0|35.0|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|46|0|NaN|NaN|0|9
+73.0|100.0|NaN|110.0|72.0|54.0|16.0|34.0|NaN|NaN|0.6|7.41|57.0|94.5|NaN|NaN|NaN|NaN|NaN|NaN|NaN|106.0|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|NaN|46|0|NaN|NaN|0|10
+80.0|98.0|NaN|130.0|82.0|62.0|16.0|36.0|NaN|NaN|NaN|NaN|NaN|NaN|22.0|20.0|107.0|8.1|NaN|1.43|NaN|111.0|NaN|1.7|NaN|3.4|1.5|NaN|27.8|7.6|NaN|7.4|NaN|133.0|46|0|NaN|NaN|0|11
